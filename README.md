@@ -15,6 +15,4 @@ Excel: dataset cleaning and processing
 
 Power Bi: data visualization and dashboard creation
 
-GitHub: Project version control 
-
-Google Sites: portfolio showcase
+[CLick to access complete project files](https://drive.google.com/drive/folders/1OLv0_Dlk_0NW2rfxxhHhBVdgwxL9UYZV?usp=drive_link)
