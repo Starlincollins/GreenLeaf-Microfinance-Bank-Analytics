@@ -6,13 +6,13 @@ Customer growth: track customer acquisition and learn how much the customer base
 
 Transaction trend: evaluating business performance through transaction analysis
 
-Customer segmentation: categorizing customers based on behavioral patterns.
+Assessing Customer Retention: Compare performance across customer categories, such as regions, products, RFM system.
 
 # Tools
 Python: dataset generation and storage
 
 Excel: dataset cleaning and processing
 
-Power Bi: data visualization and dashboard creation
+Power BI: data visualization and dashboard creation
 
-[CLick to access complete project files](https://drive.google.com/drive/folders/1OLv0_Dlk_0NW2rfxxhHhBVdgwxL9UYZV?usp=drive_link)
+[Click to access complete project files](https://drive.google.com/drive/folders/1OLv0_Dlk_0NW2rfxxhHhBVdgwxL9UYZV?usp=drive_link)
